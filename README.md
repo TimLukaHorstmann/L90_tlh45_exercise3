@@ -1,7 +1,9 @@
 ## This repository contains the code for the custom-built abstractive summarisation system of the third practical for L90 - Overview of Natural Language Processing.
 
-To execute the code and train the model, the original data files (such as data/train.json, data/validation.json, ...) would need to be added to the folder.
-These files were not uploaded as they exceed the GitHub file size limit of 25MB.
+To execute the code and train the model, the original data files (such as data/train.json, data/validation.json, ...) would need to be included.
+These files were not uploaded to GitHub as they exceed the GitHub file size limit of 25MB.
+
+The code and data files were additionally submitted as a zip folder.
 
 
 ### Original README below
