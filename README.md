@@ -1,3 +1,10 @@
+## This repository contains the code for the custom-built abstractive summarisation system of the third practical for L90 - Overview of Natural Language Processing.
+
+### Original README below
+
+--------------------------------------------
+
+
 # Summarization Exercise
 
 This repository contains code to be used in the L90 assignments on summarization.
